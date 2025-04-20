@@ -12,4 +12,4 @@ A simple PyTorch project that trains a neural network to classify handwritten di
 ```bash
 python mnist_classifier.py
 
-https://img.shields.io/badge/python-3.8-blue.svg
+https://img.shields.io/badge/python-3.12.10-blue.svg
